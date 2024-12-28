@@ -1,0 +1,7 @@
+C:\Users\Ebelin\source\repos\MadelynBucles7\MadelynBucles7\bin\Debug\MadelynBucles7.exe.config
+C:\Users\Ebelin\source\repos\MadelynBucles7\MadelynBucles7\bin\Debug\MadelynBucles7.exe
+C:\Users\Ebelin\source\repos\MadelynBucles7\MadelynBucles7\bin\Debug\MadelynBucles7.pdb
+C:\Users\Ebelin\source\repos\MadelynBucles7\MadelynBucles7\obj\Debug\MadelynBucles7.csproj.AssemblyReference.cache
+C:\Users\Ebelin\source\repos\MadelynBucles7\MadelynBucles7\obj\Debug\MadelynBucles7.csproj.CoreCompileInputs.cache
+C:\Users\Ebelin\source\repos\MadelynBucles7\MadelynBucles7\obj\Debug\MadelynBucles7.exe
+C:\Users\Ebelin\source\repos\MadelynBucles7\MadelynBucles7\obj\Debug\MadelynBucles7.pdb

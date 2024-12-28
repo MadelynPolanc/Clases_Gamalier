@@ -1,0 +1,7 @@
+C:\Users\Ebelin\source\repos\PruebaTecnica_02Madelyn\PruebaTecnica_02Madelyn\bin\Debug\PruebaTecnica_02Madelyn.exe.config
+C:\Users\Ebelin\source\repos\PruebaTecnica_02Madelyn\PruebaTecnica_02Madelyn\bin\Debug\PruebaTecnica_02Madelyn.exe
+C:\Users\Ebelin\source\repos\PruebaTecnica_02Madelyn\PruebaTecnica_02Madelyn\bin\Debug\PruebaTecnica_02Madelyn.pdb
+C:\Users\Ebelin\source\repos\PruebaTecnica_02Madelyn\PruebaTecnica_02Madelyn\obj\Debug\PruebaTecnica_02Madelyn.csproj.AssemblyReference.cache
+C:\Users\Ebelin\source\repos\PruebaTecnica_02Madelyn\PruebaTecnica_02Madelyn\obj\Debug\PruebaTecnica_02Madelyn.csproj.CoreCompileInputs.cache
+C:\Users\Ebelin\source\repos\PruebaTecnica_02Madelyn\PruebaTecnica_02Madelyn\obj\Debug\PruebaTecnica_02Madelyn.exe
+C:\Users\Ebelin\source\repos\PruebaTecnica_02Madelyn\PruebaTecnica_02Madelyn\obj\Debug\PruebaTecnica_02Madelyn.pdb

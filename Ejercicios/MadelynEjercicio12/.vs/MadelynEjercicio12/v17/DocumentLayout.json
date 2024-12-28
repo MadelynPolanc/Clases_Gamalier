@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ebelin\\source\\repos\\MadelynEjercicio12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564E14A9-2BAD-40E0-8D02-9A0D83074C00}|MadelynEjercicio12\\MadelynEjercicio12.csproj|c:\\users\\ebelin\\source\\repos\\madelynejercicio12\\madelynejercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564E14A9-2BAD-40E0-8D02-9A0D83074C00}|MadelynEjercicio12\\MadelynEjercicio12.csproj|solutionrelative:madelynejercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebelin\\source\\repos\\MadelynEjercicio12\\MadelynEjercicio12\\Program.cs",
+              "RelativeDocumentMoniker": "MadelynEjercicio12\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebelin\\source\\repos\\MadelynEjercicio12\\MadelynEjercicio12\\Program.cs",
+              "RelativeToolTip": "MadelynEjercicio12\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:46:24.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

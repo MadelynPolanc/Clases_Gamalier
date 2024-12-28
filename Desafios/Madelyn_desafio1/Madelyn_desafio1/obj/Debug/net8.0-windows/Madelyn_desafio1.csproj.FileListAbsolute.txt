@@ -1,0 +1,16 @@
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\bin\Debug\net8.0-windows\Madelyn_desafio1.exe
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\bin\Debug\net8.0-windows\Madelyn_desafio1.deps.json
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\bin\Debug\net8.0-windows\Madelyn_desafio1.runtimeconfig.json
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\bin\Debug\net8.0-windows\Madelyn_desafio1.dll
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\bin\Debug\net8.0-windows\Madelyn_desafio1.pdb
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.Form1.resources
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.csproj.GenerateResource.cache
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.AssemblyInfoInputs.cache
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.AssemblyInfo.cs
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.csproj.CoreCompileInputs.cache
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.dll
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\refint\Madelyn_desafio1.dll
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.pdb
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\Madelyn_desafio1.genruntimeconfig.cache
+C:\Users\Ebelin\source\repos\Madelyn_desafio1\Madelyn_desafio1\obj\Debug\net8.0-windows\ref\Madelyn_desafio1.dll

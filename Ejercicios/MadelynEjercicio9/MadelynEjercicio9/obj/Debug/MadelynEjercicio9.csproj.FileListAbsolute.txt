@@ -1,0 +1,7 @@
+C:\Users\Ebelin\source\repos\MadelynEjercicio9\MadelynEjercicio9\obj\Debug\MadelynEjercicio9.csproj.AssemblyReference.cache
+C:\Users\Ebelin\source\repos\MadelynEjercicio9\MadelynEjercicio9\obj\Debug\MadelynEjercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Ebelin\source\repos\MadelynEjercicio9\MadelynEjercicio9\bin\Debug\MadelynEjercicio9.exe.config
+C:\Users\Ebelin\source\repos\MadelynEjercicio9\MadelynEjercicio9\bin\Debug\MadelynEjercicio9.exe
+C:\Users\Ebelin\source\repos\MadelynEjercicio9\MadelynEjercicio9\bin\Debug\MadelynEjercicio9.pdb
+C:\Users\Ebelin\source\repos\MadelynEjercicio9\MadelynEjercicio9\obj\Debug\MadelynEjercicio9.exe
+C:\Users\Ebelin\source\repos\MadelynEjercicio9\MadelynEjercicio9\obj\Debug\MadelynEjercicio9.pdb

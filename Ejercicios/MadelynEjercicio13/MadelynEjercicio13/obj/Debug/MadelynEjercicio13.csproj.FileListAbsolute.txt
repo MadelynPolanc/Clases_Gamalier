@@ -1,0 +1,7 @@
+C:\Users\Ebelin\source\repos\MadelynEjercicio13\MadelynEjercicio13\bin\Debug\MadelynEjercicio13.exe.config
+C:\Users\Ebelin\source\repos\MadelynEjercicio13\MadelynEjercicio13\bin\Debug\MadelynEjercicio13.exe
+C:\Users\Ebelin\source\repos\MadelynEjercicio13\MadelynEjercicio13\bin\Debug\MadelynEjercicio13.pdb
+C:\Users\Ebelin\source\repos\MadelynEjercicio13\MadelynEjercicio13\obj\Debug\MadelynEjercicio13.csproj.AssemblyReference.cache
+C:\Users\Ebelin\source\repos\MadelynEjercicio13\MadelynEjercicio13\obj\Debug\MadelynEjercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Ebelin\source\repos\MadelynEjercicio13\MadelynEjercicio13\obj\Debug\MadelynEjercicio13.exe
+C:\Users\Ebelin\source\repos\MadelynEjercicio13\MadelynEjercicio13\obj\Debug\MadelynEjercicio13.pdb

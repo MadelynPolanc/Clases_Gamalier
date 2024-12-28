@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ebelin\\source\\repos\\ejercicio1clasesobjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9AE3A1-2682-4D87-9A7F-DC25853819A5}|ejercicio1clasesobjetos\\ejercicio1clasesobjetos.csproj|c:\\users\\ebelin\\source\\repos\\ejercicio1clasesobjetos\\ejercicio1clasesobjetos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9AE3A1-2682-4D87-9A7F-DC25853819A5}|ejercicio1clasesobjetos\\ejercicio1clasesobjetos.csproj|solutionrelative:ejercicio1clasesobjetos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9AE3A1-2682-4D87-9A7F-DC25853819A5}|ejercicio1clasesobjetos\\ejercicio1clasesobjetos.csproj|C:\\Users\\Ebelin\\source\\repos\\ejercicio1clasesobjetos\\ejercicio1clasesobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9AE3A1-2682-4D87-9A7F-DC25853819A5}|ejercicio1clasesobjetos\\ejercicio1clasesobjetos.csproj|solutionrelative:ejercicio1clasesobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ebelin\\source\\repos\\ejercicio1clasesobjetos\\ejercicio1clasesobjetos\\Class1.cs",
+              "RelativeDocumentMoniker": "ejercicio1clasesobjetos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ebelin\\source\\repos\\ejercicio1clasesobjetos\\ejercicio1clasesobjetos\\Class1.cs",
+              "RelativeToolTip": "ejercicio1clasesobjetos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:16:11.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebelin\\source\\repos\\ejercicio1clasesobjetos\\ejercicio1clasesobjetos\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio1clasesobjetos\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebelin\\source\\repos\\ejercicio1clasesobjetos\\ejercicio1clasesobjetos\\Program.cs",
+              "RelativeToolTip": "ejercicio1clasesobjetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:11:11.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

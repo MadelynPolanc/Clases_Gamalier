@@ -1,0 +1,7 @@
+C:\Users\Ebelin\source\repos\ejercicio1clasesobjetos\ejercicio1clasesobjetos\obj\Debug\ejercicio1clasesobjetos.csproj.AssemblyReference.cache
+C:\Users\Ebelin\source\repos\ejercicio1clasesobjetos\ejercicio1clasesobjetos\obj\Debug\ejercicio1clasesobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Ebelin\source\repos\ejercicio1clasesobjetos\ejercicio1clasesobjetos\bin\Debug\ejercicio1clasesobjetos.exe.config
+C:\Users\Ebelin\source\repos\ejercicio1clasesobjetos\ejercicio1clasesobjetos\bin\Debug\ejercicio1clasesobjetos.exe
+C:\Users\Ebelin\source\repos\ejercicio1clasesobjetos\ejercicio1clasesobjetos\bin\Debug\ejercicio1clasesobjetos.pdb
+C:\Users\Ebelin\source\repos\ejercicio1clasesobjetos\ejercicio1clasesobjetos\obj\Debug\ejercicio1clasesobjetos.exe
+C:\Users\Ebelin\source\repos\ejercicio1clasesobjetos\ejercicio1clasesobjetos\obj\Debug\ejercicio1clasesobjetos.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ebelin\source\repos\MadelynArreglos1\MadelynArreglos1\bin\Debug\MadelynArreglos1.exe.config
+C:\Users\Ebelin\source\repos\MadelynArreglos1\MadelynArreglos1\bin\Debug\MadelynArreglos1.exe
+C:\Users\Ebelin\source\repos\MadelynArreglos1\MadelynArreglos1\bin\Debug\MadelynArreglos1.pdb
+C:\Users\Ebelin\source\repos\MadelynArreglos1\MadelynArreglos1\obj\Debug\MadelynArreglos1.csproj.AssemblyReference.cache
+C:\Users\Ebelin\source\repos\MadelynArreglos1\MadelynArreglos1\obj\Debug\MadelynArreglos1.csproj.CoreCompileInputs.cache
+C:\Users\Ebelin\source\repos\MadelynArreglos1\MadelynArreglos1\obj\Debug\MadelynArreglos1.exe
+C:\Users\Ebelin\source\repos\MadelynArreglos1\MadelynArreglos1\obj\Debug\MadelynArreglos1.pdb

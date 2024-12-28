@@ -1,0 +1,2 @@
+C:\Users\Ebelin\source\repos\MadelynEjercicio12\MadelynEjercicio12\obj\Debug\MadelynEjercicio12.csproj.AssemblyReference.cache
+C:\Users\Ebelin\source\repos\MadelynEjercicio12\MadelynEjercicio12\obj\Debug\MadelynEjercicio12.csproj.CoreCompileInputs.cache

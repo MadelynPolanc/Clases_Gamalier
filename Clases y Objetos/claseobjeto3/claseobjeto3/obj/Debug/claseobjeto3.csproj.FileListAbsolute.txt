@@ -1,0 +1,7 @@
+C:\Users\Ebelin\source\repos\claseobjeto3\claseobjeto3\bin\Debug\claseobjeto3.exe.config
+C:\Users\Ebelin\source\repos\claseobjeto3\claseobjeto3\bin\Debug\claseobjeto3.exe
+C:\Users\Ebelin\source\repos\claseobjeto3\claseobjeto3\bin\Debug\claseobjeto3.pdb
+C:\Users\Ebelin\source\repos\claseobjeto3\claseobjeto3\obj\Debug\claseobjeto3.csproj.AssemblyReference.cache
+C:\Users\Ebelin\source\repos\claseobjeto3\claseobjeto3\obj\Debug\claseobjeto3.csproj.CoreCompileInputs.cache
+C:\Users\Ebelin\source\repos\claseobjeto3\claseobjeto3\obj\Debug\claseobjeto3.exe
+C:\Users\Ebelin\source\repos\claseobjeto3\claseobjeto3\obj\Debug\claseobjeto3.pdb
